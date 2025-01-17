@@ -17,4 +17,4 @@ def home():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)        # Here "dubug = true" helps to reload the page without restarting server after updating/changes in page 
+    app.run(debug=True)        # Here "debug = true" helps to reload the page without restarting server after updating/changes in page 
