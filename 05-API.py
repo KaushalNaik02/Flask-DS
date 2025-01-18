@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 
 items = [
-    {"id":01, "name":"Product1","Description":"This is Product1"}
+    {"id":01, "name":"Product1","Description":"This is Product1"},
     {"id":02, "name":"Product2","Description":"This is Product2"}
 
 ]
